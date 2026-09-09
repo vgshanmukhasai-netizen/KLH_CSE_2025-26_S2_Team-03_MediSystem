@@ -1,0 +1,6 @@
+Patient_ID:P134
+Name:Patient_134
+Age:54
+Disease:COPD
+Symptoms:Fatigue
+Severity:Moderate

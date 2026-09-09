@@ -1,0 +1,6 @@
+Patient_ID:P196
+Name:Patient_196
+Age:66
+Disease:Ulcer
+Symptoms:Fatigue
+Severity:Moderate

@@ -1,0 +1,6 @@
+Patient_ID:P101
+Name:Patient_101
+Age:21
+Disease:Arthritis
+Symptoms:Fatigue
+Severity:Moderate

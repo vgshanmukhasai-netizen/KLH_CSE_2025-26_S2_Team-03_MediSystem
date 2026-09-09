@@ -1,0 +1,6 @@
+Patient_ID:P028
+Name:Patient_28
+Age:48
+Disease:Pancreatitis
+Symptoms:Fatigue
+Severity:Moderate

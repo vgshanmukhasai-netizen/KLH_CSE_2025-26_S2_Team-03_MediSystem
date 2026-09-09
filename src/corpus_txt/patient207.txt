@@ -1,0 +1,6 @@
+Patient_ID:P207
+Name:Patient_207
+Age:27
+Disease:Psoriasis
+Symptoms:Fatigue
+Severity:Moderate

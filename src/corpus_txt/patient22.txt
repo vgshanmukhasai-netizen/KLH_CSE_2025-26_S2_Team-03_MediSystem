@@ -1,0 +1,6 @@
+Patient_ID:P022
+Name:Patient_22
+Age:42
+Disease:Depression
+Symptoms:Fatigue
+Severity:Moderate

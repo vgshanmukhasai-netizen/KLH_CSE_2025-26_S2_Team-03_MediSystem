@@ -1,0 +1,6 @@
+Patient_ID:P210
+Name:Patient_210
+Age:30
+Disease:Pneumonia
+Symptoms:Fatigue
+Severity:Moderate

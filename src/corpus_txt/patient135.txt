@@ -1,0 +1,6 @@
+Patient_ID:P135
+Name:Patient_135
+Age:55
+Disease:SleepApnea
+Symptoms:Fatigue
+Severity:Moderate

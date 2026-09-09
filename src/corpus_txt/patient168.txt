@@ -1,0 +1,6 @@
+Patient_ID:P168
+Name:Patient_168
+Age:38
+Disease:Typhoid
+Symptoms:Fatigue
+Severity:Moderate

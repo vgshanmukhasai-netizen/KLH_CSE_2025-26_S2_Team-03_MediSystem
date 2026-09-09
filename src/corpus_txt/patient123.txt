@@ -1,0 +1,6 @@
+Patient_ID:P123
+Name:Patient_123
+Age:43
+Disease:Arthritis
+Symptoms:Fatigue
+Severity:Moderate

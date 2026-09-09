@@ -1,0 +1,6 @@
+Patient_ID:P213
+Name:Patient_213
+Age:33
+Disease:Malaria
+Symptoms:Fatigue
+Severity:Moderate

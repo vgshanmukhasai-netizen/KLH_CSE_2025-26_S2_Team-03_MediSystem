@@ -1,0 +1,6 @@
+Patient_ID:P009
+Name:Patient_9
+Age:29
+Disease:Dengue
+Symptoms:Fever
+Severity:Moderate

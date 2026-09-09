@@ -1,0 +1,6 @@
+Patient_ID:P019
+Name:Patient_19
+Age:39
+Disease:Gastritis
+Symptoms:Fatigue
+Severity:Moderate

@@ -1,0 +1,6 @@
+Patient_ID:P103
+Name:Patient_103
+Age:23
+Disease:Malaria
+Symptoms:Fatigue
+Severity:Moderate

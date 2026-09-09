@@ -1,0 +1,6 @@
+Patient_ID:P164
+Name:Patient_164
+Age:34
+Disease:Eczema
+Symptoms:Fatigue
+Severity:Moderate

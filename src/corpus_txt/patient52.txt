@@ -1,0 +1,6 @@
+Patient_ID:P052
+Name:Patient_52
+Age:22
+Disease:Cataract
+Symptoms:Fatigue
+Severity:Moderate

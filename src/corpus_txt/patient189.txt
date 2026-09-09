@@ -1,0 +1,6 @@
+Patient_ID:P189
+Name:Patient_189
+Age:59
+Disease:Arthritis
+Symptoms:Fatigue
+Severity:Moderate

@@ -1,0 +1,6 @@
+Patient_ID:P043
+Name:Patient_43
+Age:63
+Disease:ThyroidDisorder
+Symptoms:Fatigue
+Severity:Moderate

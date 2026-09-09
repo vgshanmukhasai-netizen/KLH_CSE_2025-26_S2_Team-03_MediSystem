@@ -1,0 +1,6 @@
+Patient_ID:P217
+Name:Patient_217
+Age:37
+Disease:Gastritis
+Symptoms:Fatigue
+Severity:Moderate

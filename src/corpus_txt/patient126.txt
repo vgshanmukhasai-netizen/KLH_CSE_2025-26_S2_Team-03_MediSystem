@@ -1,0 +1,6 @@
+Patient_ID:P126
+Name:Patient_126
+Age:46
+Disease:Hepatitis
+Symptoms:Fatigue
+Severity:Moderate

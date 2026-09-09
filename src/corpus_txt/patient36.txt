@@ -1,0 +1,6 @@
+Patient_ID:P036
+Name:Patient_36
+Age:56
+Disease:Typhoid
+Symptoms:Fatigue
+Severity:Moderate

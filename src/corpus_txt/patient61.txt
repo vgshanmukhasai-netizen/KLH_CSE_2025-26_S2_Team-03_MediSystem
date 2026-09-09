@@ -1,0 +1,6 @@
+Patient_ID:P061
+Name:Patient_61
+Age:31
+Disease:Bronchitis
+Symptoms:Fatigue
+Severity:Moderate

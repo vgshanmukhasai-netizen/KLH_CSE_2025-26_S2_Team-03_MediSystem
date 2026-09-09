@@ -1,0 +1,6 @@
+Patient_ID:P093
+Name:Patient_93
+Age:63
+Disease:Gallstones
+Symptoms:Fatigue
+Severity:Moderate

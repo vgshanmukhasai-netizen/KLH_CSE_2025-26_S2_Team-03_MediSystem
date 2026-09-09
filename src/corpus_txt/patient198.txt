@@ -1,0 +1,6 @@
+Patient_ID:P198
+Name:Patient_198
+Age:68
+Disease:Depression
+Symptoms:Fatigue
+Severity:Moderate

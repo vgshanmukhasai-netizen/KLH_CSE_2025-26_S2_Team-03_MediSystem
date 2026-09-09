@@ -1,0 +1,6 @@
+Patient_ID:P110
+Name:Patient_110
+Age:30
+Disease:Depression
+Symptoms:Fatigue
+Severity:Moderate

@@ -1,0 +1,6 @@
+Patient_ID:P202
+Name:Patient_202
+Age:22
+Disease:Appendicitis
+Symptoms:Fatigue
+Severity:Moderate

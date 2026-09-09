@@ -1,0 +1,6 @@
+Patient_ID:P225
+Name:Patient_225
+Age:45
+Disease:Gallstones
+Symptoms:Fatigue
+Severity:Moderate

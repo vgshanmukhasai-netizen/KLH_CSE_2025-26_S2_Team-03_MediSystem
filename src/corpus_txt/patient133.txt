@@ -1,0 +1,6 @@
+Patient_ID:P133
+Name:Patient_133
+Age:53
+Disease:Anxiety
+Symptoms:Fatigue
+Severity:Moderate

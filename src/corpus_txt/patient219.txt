@@ -1,0 +1,6 @@
+Patient_ID:P219
+Name:Patient_219
+Age:39
+Disease:ThyroidDisorder
+Symptoms:Fatigue
+Severity:Moderate

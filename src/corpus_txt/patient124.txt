@@ -1,0 +1,6 @@
+Patient_ID:P124
+Name:Patient_124
+Age:44
+Disease:Typhoid
+Symptoms:Fatigue
+Severity:Moderate

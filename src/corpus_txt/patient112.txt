@@ -1,0 +1,6 @@
+Patient_ID:P112
+Name:Patient_112
+Age:32
+Disease:COPD
+Symptoms:Fatigue
+Severity:Moderate

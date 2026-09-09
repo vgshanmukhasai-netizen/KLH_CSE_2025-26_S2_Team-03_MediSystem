@@ -1,0 +1,6 @@
+Patient_ID:P172
+Name:Patient_172
+Age:42
+Disease:Sinusitis
+Symptoms:Fatigue
+Severity:Moderate

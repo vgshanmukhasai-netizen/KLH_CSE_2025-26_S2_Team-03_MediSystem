@@ -1,0 +1,6 @@
+Patient_ID:P218
+Name:Patient_218
+Age:38
+Disease:Ulcer
+Symptoms:Fatigue
+Severity:Moderate

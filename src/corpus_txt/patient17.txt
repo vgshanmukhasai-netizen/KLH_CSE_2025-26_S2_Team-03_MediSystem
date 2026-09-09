@@ -1,0 +1,6 @@
+Patient_ID:P017
+Name:Patient_17
+Age:37
+Disease:Bronchitis
+Symptoms:Fatigue
+Severity:Moderate
