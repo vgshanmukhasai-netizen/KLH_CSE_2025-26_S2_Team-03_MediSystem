@@ -1,6 +1,0 @@
-Patient_ID:P197
-Name:Patient_197
-Age:67
-Disease:ThyroidDisorder
-Symptoms:Fatigue
-Severity:Moderate

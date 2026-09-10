@@ -1,6 +1,0 @@
-Patient_ID:P066
-Name:Patient_66
-Age:36
-Disease:Depression
-Symptoms:Fatigue
-Severity:Moderate

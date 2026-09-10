@@ -1,6 +1,0 @@
-Patient_ID:P180
-Name:Patient_180
-Age:50
-Disease:Appendicitis
-Symptoms:Fatigue
-Severity:Moderate

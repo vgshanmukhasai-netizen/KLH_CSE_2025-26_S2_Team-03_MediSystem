@@ -1,6 +1,0 @@
-Patient_ID:P111
-Name:Patient_111
-Age:31
-Disease:Anxiety
-Symptoms:Fatigue
-Severity:Moderate

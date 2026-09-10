@@ -1,6 +1,0 @@
-Patient_ID:P100
-Name:Patient_100
-Age:20
-Disease:Pneumonia
-Symptoms:Fatigue
-Severity:Moderate

@@ -1,6 +1,0 @@
-Patient_ID:P008
-Name:Patient_8
-Age:28
-Disease:Cancer
-Symptoms:WeightLoss
-Severity:Critical

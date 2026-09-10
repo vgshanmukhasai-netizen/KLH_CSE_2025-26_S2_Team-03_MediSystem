@@ -1,6 +1,0 @@
-Patient_ID:P039
-Name:Patient_39
-Age:59
-Disease:Bronchitis
-Symptoms:Fatigue
-Severity:Moderate

@@ -1,6 +1,0 @@
-Patient_ID:P108
-Name:Patient_108
-Age:28
-Disease:Ulcer
-Symptoms:Fatigue
-Severity:Moderate

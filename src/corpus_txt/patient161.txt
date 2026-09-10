@@ -1,6 +1,0 @@
-Patient_ID:P161
-Name:Patient_161
-Age:31
-Disease:Glaucoma
-Symptoms:Fatigue
-Severity:Moderate

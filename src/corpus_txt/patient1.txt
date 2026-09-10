@@ -1,6 +1,0 @@
-Patient_ID:P001
-Name:Patient_1
-Age:21
-Disease:Diabetes
-Symptoms:Fatigue
-Severity:Moderate

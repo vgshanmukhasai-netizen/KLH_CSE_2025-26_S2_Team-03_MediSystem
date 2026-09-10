@@ -1,6 +1,0 @@
-Patient_ID:P055
-Name:Patient_55
-Age:25
-Disease:Tuberculosis
-Symptoms:Fatigue
-Severity:Moderate

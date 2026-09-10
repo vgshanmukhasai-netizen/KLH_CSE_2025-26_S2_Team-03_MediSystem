@@ -1,6 +1,0 @@
-Patient_ID:P165
-Name:Patient_165
-Age:35
-Disease:Tuberculosis
-Symptoms:Fatigue
-Severity:Moderate

@@ -1,6 +1,0 @@
-Patient_ID:P152
-Name:Patient_152
-Age:22
-Disease:Ulcer
-Symptoms:Fatigue
-Severity:Moderate

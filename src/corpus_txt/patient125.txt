@@ -1,6 +1,0 @@
-Patient_ID:P125
-Name:Patient_125
-Age:45
-Disease:Malaria
-Symptoms:Fatigue
-Severity:Moderate

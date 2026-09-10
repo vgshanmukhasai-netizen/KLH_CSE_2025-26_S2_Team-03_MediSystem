@@ -1,6 +1,0 @@
-Patient_ID:P216
-Name:Patient_216
-Age:36
-Disease:Sinusitis
-Symptoms:Fatigue
-Severity:Moderate

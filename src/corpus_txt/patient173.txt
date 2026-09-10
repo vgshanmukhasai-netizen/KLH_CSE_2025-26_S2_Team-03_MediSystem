@@ -1,6 +1,0 @@
-Patient_ID:P173
-Name:Patient_173
-Age:43
-Disease:Gastritis
-Symptoms:Fatigue
-Severity:Moderate

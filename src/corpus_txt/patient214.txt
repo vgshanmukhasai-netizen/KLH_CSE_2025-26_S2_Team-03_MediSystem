@@ -1,6 +1,0 @@
-Patient_ID:P214
-Name:Patient_214
-Age:34
-Disease:Hepatitis
-Symptoms:Fatigue
-Severity:Moderate

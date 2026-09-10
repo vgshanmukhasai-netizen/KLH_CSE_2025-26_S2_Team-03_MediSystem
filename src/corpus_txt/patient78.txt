@@ -1,6 +1,0 @@
-Patient_ID:P078
-Name:Patient_78
-Age:48
-Disease:Pneumonia
-Symptoms:Fatigue
-Severity:Moderate

@@ -1,6 +1,0 @@
-Patient_ID:P147
-Name:Patient_147
-Age:67
-Disease:Malaria
-Symptoms:Fatigue
-Severity:Moderate

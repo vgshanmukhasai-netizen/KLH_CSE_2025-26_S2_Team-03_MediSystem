@@ -1,6 +1,0 @@
-Patient_ID:P178
-Name:Patient_178
-Age:48
-Disease:COPD
-Symptoms:Fatigue
-Severity:Moderate

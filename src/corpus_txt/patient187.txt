@@ -1,6 +1,0 @@
-Patient_ID:P187
-Name:Patient_187
-Age:57
-Disease:Tuberculosis
-Symptoms:Fatigue
-Severity:Moderate

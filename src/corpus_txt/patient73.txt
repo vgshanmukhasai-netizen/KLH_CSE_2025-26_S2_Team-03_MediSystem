@@ -1,6 +1,0 @@
-Patient_ID:P073
-Name:Patient_73
-Age:43
-Disease:Glaucoma
-Symptoms:Fatigue
-Severity:Moderate

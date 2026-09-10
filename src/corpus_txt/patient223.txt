@@ -1,6 +1,0 @@
-Patient_ID:P223
-Name:Patient_223
-Age:43
-Disease:SleepApnea
-Symptoms:Fatigue
-Severity:Moderate

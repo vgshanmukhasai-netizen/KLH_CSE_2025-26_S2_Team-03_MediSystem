@@ -1,6 +1,0 @@
-Patient_ID:P166
-Name:Patient_166
-Age:36
-Disease:Pneumonia
-Symptoms:Fatigue
-Severity:Moderate

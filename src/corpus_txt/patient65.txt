@@ -1,6 +1,0 @@
-Patient_ID:P065
-Name:Patient_65
-Age:35
-Disease:ThyroidDisorder
-Symptoms:Fatigue
-Severity:Moderate

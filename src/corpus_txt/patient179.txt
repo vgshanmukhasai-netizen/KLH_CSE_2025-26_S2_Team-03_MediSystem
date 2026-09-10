@@ -1,6 +1,0 @@
-Patient_ID:P179
-Name:Patient_179
-Age:49
-Disease:SleepApnea
-Symptoms:Fatigue
-Severity:Moderate

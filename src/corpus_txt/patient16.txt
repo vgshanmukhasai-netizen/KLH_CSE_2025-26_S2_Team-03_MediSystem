@@ -1,6 +1,0 @@
-Patient_ID:P016
-Name:Patient_16
-Age:36
-Disease:Hepatitis
-Symptoms:Fatigue
-Severity:Moderate

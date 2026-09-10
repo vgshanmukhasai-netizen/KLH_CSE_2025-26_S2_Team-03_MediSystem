@@ -1,6 +1,0 @@
-Patient_ID:P155
-Name:Patient_155
-Age:25
-Disease:Anxiety
-Symptoms:Fatigue
-Severity:Moderate

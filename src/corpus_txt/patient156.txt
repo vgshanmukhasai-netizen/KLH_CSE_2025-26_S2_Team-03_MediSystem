@@ -1,6 +1,0 @@
-Patient_ID:P156
-Name:Patient_156
-Age:26
-Disease:COPD
-Symptoms:Fatigue
-Severity:Moderate

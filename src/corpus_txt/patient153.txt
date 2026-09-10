@@ -1,6 +1,0 @@
-Patient_ID:P153
-Name:Patient_153
-Age:23
-Disease:ThyroidDisorder
-Symptoms:Fatigue
-Severity:Moderate

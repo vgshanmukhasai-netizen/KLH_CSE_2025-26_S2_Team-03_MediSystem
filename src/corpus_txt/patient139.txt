@@ -1,6 +1,0 @@
-Patient_ID:P139
-Name:Patient_139
-Age:59
-Disease:Glaucoma
-Symptoms:Fatigue
-Severity:Moderate

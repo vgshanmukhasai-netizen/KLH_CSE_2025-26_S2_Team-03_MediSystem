@@ -1,6 +1,0 @@
-Patient_ID:P046
-Name:Patient_46
-Age:66
-Disease:COPD
-Symptoms:Fatigue
-Severity:Moderate

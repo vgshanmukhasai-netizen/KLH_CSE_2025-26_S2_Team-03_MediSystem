@@ -1,6 +1,0 @@
-Patient_ID:P085
-Name:Patient_85
-Age:55
-Disease:Gastritis
-Symptoms:Fatigue
-Severity:Moderate

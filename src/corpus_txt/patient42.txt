@@ -1,6 +1,0 @@
-Patient_ID:P042
-Name:Patient_42
-Age:62
-Disease:Ulcer
-Symptoms:Fatigue
-Severity:Moderate

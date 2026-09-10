@@ -1,6 +1,0 @@
-Patient_ID:P116
-Name:Patient_116
-Age:36
-Disease:Pancreatitis
-Symptoms:Fatigue
-Severity:Moderate

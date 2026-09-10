@@ -1,6 +1,0 @@
-Patient_ID:P096
-Name:Patient_96
-Age:66
-Disease:Cataract
-Symptoms:Fatigue
-Severity:Moderate

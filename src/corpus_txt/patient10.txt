@@ -1,6 +1,0 @@
-Patient_ID:P010
-Name:Patient_10
-Age:30
-Disease:Migraine
-Symptoms:Headache
-Severity:Mild

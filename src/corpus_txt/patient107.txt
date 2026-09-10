@@ -1,6 +1,0 @@
-Patient_ID:P107
-Name:Patient_107
-Age:27
-Disease:Gastritis
-Symptoms:Fatigue
-Severity:Moderate

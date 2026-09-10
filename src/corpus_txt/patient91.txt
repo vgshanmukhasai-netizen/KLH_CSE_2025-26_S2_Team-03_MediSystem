@@ -1,6 +1,0 @@
-Patient_ID:P091
-Name:Patient_91
-Age:61
-Disease:SleepApnea
-Symptoms:Fatigue
-Severity:Moderate

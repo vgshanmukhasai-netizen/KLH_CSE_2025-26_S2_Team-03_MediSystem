@@ -1,6 +1,0 @@
-Patient_ID:P059
-Name:Patient_59
-Age:29
-Disease:Malaria
-Symptoms:Fatigue
-Severity:Moderate

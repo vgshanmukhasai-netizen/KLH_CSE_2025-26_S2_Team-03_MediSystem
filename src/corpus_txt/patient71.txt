@@ -1,6 +1,0 @@
-Patient_ID:P071
-Name:Patient_71
-Age:41
-Disease:Gallstones
-Symptoms:Fatigue
-Severity:Moderate

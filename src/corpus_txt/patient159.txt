@@ -1,6 +1,0 @@
-Patient_ID:P159
-Name:Patient_159
-Age:29
-Disease:Gallstones
-Symptoms:Fatigue
-Severity:Moderate

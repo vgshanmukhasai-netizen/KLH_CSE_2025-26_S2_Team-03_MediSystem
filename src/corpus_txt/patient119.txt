@@ -1,6 +1,0 @@
-Patient_ID:P119
-Name:Patient_119
-Age:39
-Disease:Psoriasis
-Symptoms:Fatigue
-Severity:Moderate

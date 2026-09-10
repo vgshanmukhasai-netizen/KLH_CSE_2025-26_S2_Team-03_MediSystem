@@ -1,6 +1,0 @@
-Patient_ID:P209
-Name:Patient_209
-Age:29
-Disease:Tuberculosis
-Symptoms:Fatigue
-Severity:Moderate

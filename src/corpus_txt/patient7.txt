@@ -1,6 +1,0 @@
-Patient_ID:P007
-Name:Patient_7
-Age:27
-Disease:KidneyDisease
-Symptoms:BackPain
-Severity:Severe

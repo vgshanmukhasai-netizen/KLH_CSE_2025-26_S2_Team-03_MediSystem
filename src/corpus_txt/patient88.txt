@@ -1,6 +1,0 @@
-Patient_ID:P088
-Name:Patient_88
-Age:58
-Disease:Depression
-Symptoms:Fatigue
-Severity:Moderate

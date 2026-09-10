@@ -1,6 +1,0 @@
-Patient_ID:P106
-Name:Patient_106
-Age:26
-Disease:Sinusitis
-Symptoms:Fatigue
-Severity:Moderate

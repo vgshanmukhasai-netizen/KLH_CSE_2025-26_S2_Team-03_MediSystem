@@ -1,6 +1,0 @@
-Patient_ID:P047
-Name:Patient_47
-Age:67
-Disease:SleepApnea
-Symptoms:Fatigue
-Severity:Moderate

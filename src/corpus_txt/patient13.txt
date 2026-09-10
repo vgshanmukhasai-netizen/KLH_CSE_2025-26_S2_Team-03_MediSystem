@@ -1,6 +1,0 @@
-Patient_ID:P013
-Name:Patient_13
-Age:33
-Disease:Arthritis
-Symptoms:Fatigue
-Severity:Moderate

@@ -1,6 +1,0 @@
-Patient_ID:P027
-Name:Patient_27
-Age:47
-Disease:Gallstones
-Symptoms:Fatigue
-Severity:Moderate

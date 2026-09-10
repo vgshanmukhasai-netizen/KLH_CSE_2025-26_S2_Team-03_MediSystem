@@ -1,6 +1,0 @@
-Patient_ID:P053
-Name:Patient_53
-Age:23
-Disease:Psoriasis
-Symptoms:Fatigue
-Severity:Moderate

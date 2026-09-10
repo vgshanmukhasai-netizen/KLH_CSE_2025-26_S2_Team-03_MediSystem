@@ -1,6 +1,0 @@
-Patient_ID:P157
-Name:Patient_157
-Age:27
-Disease:SleepApnea
-Symptoms:Fatigue
-Severity:Moderate

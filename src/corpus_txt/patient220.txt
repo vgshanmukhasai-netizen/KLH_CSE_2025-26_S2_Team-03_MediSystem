@@ -1,6 +1,0 @@
-Patient_ID:P220
-Name:Patient_220
-Age:40
-Disease:Depression
-Symptoms:Fatigue
-Severity:Moderate

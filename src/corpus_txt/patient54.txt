@@ -1,6 +1,0 @@
-Patient_ID:P054
-Name:Patient_54
-Age:24
-Disease:Eczema
-Symptoms:Fatigue
-Severity:Moderate

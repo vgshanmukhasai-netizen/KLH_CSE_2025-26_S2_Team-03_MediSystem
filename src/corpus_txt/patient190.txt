@@ -1,6 +1,0 @@
-Patient_ID:P190
-Name:Patient_190
-Age:60
-Disease:Typhoid
-Symptoms:Fatigue
-Severity:Moderate

@@ -1,6 +1,0 @@
-Patient_ID:P144
-Name:Patient_144
-Age:64
-Disease:Pneumonia
-Symptoms:Fatigue
-Severity:Moderate

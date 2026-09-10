@@ -1,6 +1,0 @@
-Patient_ID:P051
-Name:Patient_51
-Age:21
-Disease:Glaucoma
-Symptoms:Fatigue
-Severity:Moderate

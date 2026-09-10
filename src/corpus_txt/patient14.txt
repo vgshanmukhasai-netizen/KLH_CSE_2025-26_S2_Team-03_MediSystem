@@ -1,6 +1,0 @@
-Patient_ID:P014
-Name:Patient_14
-Age:34
-Disease:Typhoid
-Symptoms:Fatigue
-Severity:Moderate

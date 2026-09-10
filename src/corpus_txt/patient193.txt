@@ -1,6 +1,0 @@
-Patient_ID:P193
-Name:Patient_193
-Age:63
-Disease:Bronchitis
-Symptoms:Fatigue
-Severity:Moderate

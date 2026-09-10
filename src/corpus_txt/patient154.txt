@@ -1,6 +1,0 @@
-Patient_ID:P154
-Name:Patient_154
-Age:24
-Disease:Depression
-Symptoms:Fatigue
-Severity:Moderate

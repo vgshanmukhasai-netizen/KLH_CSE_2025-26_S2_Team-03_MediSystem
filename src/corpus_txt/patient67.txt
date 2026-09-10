@@ -1,6 +1,0 @@
-Patient_ID:P067
-Name:Patient_67
-Age:37
-Disease:Anxiety
-Symptoms:Fatigue
-Severity:Moderate

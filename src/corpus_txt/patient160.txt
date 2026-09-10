@@ -1,6 +1,0 @@
-Patient_ID:P160
-Name:Patient_160
-Age:30
-Disease:Pancreatitis
-Symptoms:Fatigue
-Severity:Moderate

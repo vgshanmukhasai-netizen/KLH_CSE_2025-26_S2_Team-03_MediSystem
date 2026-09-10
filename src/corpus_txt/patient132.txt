@@ -1,6 +1,0 @@
-Patient_ID:P132
-Name:Patient_132
-Age:52
-Disease:Depression
-Symptoms:Fatigue
-Severity:Moderate

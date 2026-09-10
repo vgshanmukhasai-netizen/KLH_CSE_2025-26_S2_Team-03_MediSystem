@@ -1,6 +1,0 @@
-Patient_ID:P199
-Name:Patient_199
-Age:69
-Disease:Anxiety
-Symptoms:Fatigue
-Severity:Moderate

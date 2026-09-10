@@ -1,6 +1,0 @@
-Patient_ID:P136
-Name:Patient_136
-Age:56
-Disease:Appendicitis
-Symptoms:Fatigue
-Severity:Moderate

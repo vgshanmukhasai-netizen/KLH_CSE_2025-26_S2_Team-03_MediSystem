@@ -1,6 +1,0 @@
-Patient_ID:P212
-Name:Patient_212
-Age:32
-Disease:Typhoid
-Symptoms:Fatigue
-Severity:Moderate

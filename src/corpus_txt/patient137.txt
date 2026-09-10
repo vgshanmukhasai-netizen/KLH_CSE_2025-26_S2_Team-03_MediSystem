@@ -1,6 +1,0 @@
-Patient_ID:P137
-Name:Patient_137
-Age:57
-Disease:Gallstones
-Symptoms:Fatigue
-Severity:Moderate

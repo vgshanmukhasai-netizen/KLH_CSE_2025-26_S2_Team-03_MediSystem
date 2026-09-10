@@ -1,6 +1,0 @@
-Patient_ID:P146
-Name:Patient_146
-Age:66
-Disease:Typhoid
-Symptoms:Fatigue
-Severity:Moderate

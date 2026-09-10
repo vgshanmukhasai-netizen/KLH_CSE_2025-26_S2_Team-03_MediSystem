@@ -1,6 +1,0 @@
-Patient_ID:P023
-Name:Patient_23
-Age:43
-Disease:Anxiety
-Symptoms:Fatigue
-Severity:Moderate

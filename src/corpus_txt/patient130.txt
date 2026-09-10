@@ -1,6 +1,0 @@
-Patient_ID:P130
-Name:Patient_130
-Age:50
-Disease:Ulcer
-Symptoms:Fatigue
-Severity:Moderate

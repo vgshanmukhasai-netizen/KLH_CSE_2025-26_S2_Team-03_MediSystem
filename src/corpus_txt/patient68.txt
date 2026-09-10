@@ -1,6 +1,0 @@
-Patient_ID:P068
-Name:Patient_68
-Age:38
-Disease:COPD
-Symptoms:Fatigue
-Severity:Moderate

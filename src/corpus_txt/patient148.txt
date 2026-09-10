@@ -1,6 +1,0 @@
-Patient_ID:P148
-Name:Patient_148
-Age:68
-Disease:Hepatitis
-Symptoms:Fatigue
-Severity:Moderate

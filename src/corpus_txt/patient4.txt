@@ -1,6 +1,0 @@
-Patient_ID:P004
-Name:Patient_4
-Age:24
-Disease:COVID19
-Symptoms:LossOfSmell
-Severity:Mild

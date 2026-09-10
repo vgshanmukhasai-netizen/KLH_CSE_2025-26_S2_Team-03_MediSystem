@@ -1,6 +1,0 @@
-Patient_ID:P083
-Name:Patient_83
-Age:53
-Disease:Bronchitis
-Symptoms:Fatigue
-Severity:Moderate

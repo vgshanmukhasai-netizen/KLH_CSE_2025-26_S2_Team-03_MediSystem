@@ -1,6 +1,0 @@
-Patient_ID:P098
-Name:Patient_98
-Age:68
-Disease:Eczema
-Symptoms:Fatigue
-Severity:Moderate

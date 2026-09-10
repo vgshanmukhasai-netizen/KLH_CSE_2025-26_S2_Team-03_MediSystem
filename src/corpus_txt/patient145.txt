@@ -1,6 +1,0 @@
-Patient_ID:P145
-Name:Patient_145
-Age:65
-Disease:Arthritis
-Symptoms:Fatigue
-Severity:Moderate

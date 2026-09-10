@@ -1,6 +1,0 @@
-Patient_ID:P206
-Name:Patient_206
-Age:26
-Disease:Cataract
-Symptoms:Fatigue
-Severity:Moderate

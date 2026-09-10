@@ -1,6 +1,0 @@
-Patient_ID:P151
-Name:Patient_151
-Age:21
-Disease:Gastritis
-Symptoms:Fatigue
-Severity:Moderate

@@ -1,6 +1,0 @@
-Patient_ID:P006
-Name:Patient_6
-Age:26
-Disease:Stroke
-Symptoms:Weakness
-Severity:Critical

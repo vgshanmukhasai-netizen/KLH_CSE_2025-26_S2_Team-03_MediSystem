@@ -1,6 +1,0 @@
-Patient_ID:P215
-Name:Patient_215
-Age:35
-Disease:Bronchitis
-Symptoms:Fatigue
-Severity:Moderate

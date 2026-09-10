@@ -1,6 +1,0 @@
-Patient_ID:P186
-Name:Patient_186
-Age:56
-Disease:Eczema
-Symptoms:Fatigue
-Severity:Moderate

@@ -1,6 +1,0 @@
-Patient_ID:P062
-Name:Patient_62
-Age:32
-Disease:Sinusitis
-Symptoms:Fatigue
-Severity:Moderate

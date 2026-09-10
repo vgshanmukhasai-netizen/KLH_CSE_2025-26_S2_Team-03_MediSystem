@@ -1,6 +1,0 @@
-Patient_ID:P099
-Name:Patient_99
-Age:69
-Disease:Tuberculosis
-Symptoms:Fatigue
-Severity:Moderate

@@ -1,6 +1,0 @@
-Patient_ID:P033
-Name:Patient_33
-Age:53
-Disease:Tuberculosis
-Symptoms:Fatigue
-Severity:Moderate

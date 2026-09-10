@@ -1,6 +1,0 @@
-Patient_ID:P105
-Name:Patient_105
-Age:25
-Disease:Bronchitis
-Symptoms:Fatigue
-Severity:Moderate

@@ -1,6 +1,0 @@
-Patient_ID:P140
-Name:Patient_140
-Age:60
-Disease:Cataract
-Symptoms:Fatigue
-Severity:Moderate

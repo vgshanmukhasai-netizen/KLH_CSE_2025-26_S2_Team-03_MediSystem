@@ -1,6 +1,0 @@
-Patient_ID:P109
-Name:Patient_109
-Age:29
-Disease:ThyroidDisorder
-Symptoms:Fatigue
-Severity:Moderate

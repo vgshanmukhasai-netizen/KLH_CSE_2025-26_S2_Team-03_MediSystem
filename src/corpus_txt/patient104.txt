@@ -1,6 +1,0 @@
-Patient_ID:P104
-Name:Patient_104
-Age:24
-Disease:Hepatitis
-Symptoms:Fatigue
-Severity:Moderate

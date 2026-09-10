@@ -1,6 +1,0 @@
-Patient_ID:P003
-Name:Patient_3
-Age:23
-Disease:Asthma
-Symptoms:BreathingIssue
-Severity:Moderate

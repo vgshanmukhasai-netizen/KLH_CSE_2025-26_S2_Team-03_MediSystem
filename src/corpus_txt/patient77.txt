@@ -1,6 +1,0 @@
-Patient_ID:P077
-Name:Patient_77
-Age:47
-Disease:Tuberculosis
-Symptoms:Fatigue
-Severity:Moderate

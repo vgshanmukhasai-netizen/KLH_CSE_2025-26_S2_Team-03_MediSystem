@@ -1,6 +1,0 @@
-Patient_ID:P221
-Name:Patient_221
-Age:41
-Disease:Anxiety
-Symptoms:Fatigue
-Severity:Moderate

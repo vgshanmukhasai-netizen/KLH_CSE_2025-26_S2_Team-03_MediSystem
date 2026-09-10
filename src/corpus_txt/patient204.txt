@@ -1,6 +1,0 @@
-Patient_ID:P204
-Name:Patient_204
-Age:24
-Disease:Pancreatitis
-Symptoms:Fatigue
-Severity:Moderate

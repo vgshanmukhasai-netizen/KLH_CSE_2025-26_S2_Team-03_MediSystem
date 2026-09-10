@@ -1,6 +1,0 @@
-Patient_ID:P183
-Name:Patient_183
-Age:53
-Disease:Glaucoma
-Symptoms:Fatigue
-Severity:Moderate

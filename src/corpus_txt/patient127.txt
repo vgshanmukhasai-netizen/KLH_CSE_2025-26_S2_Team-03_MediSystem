@@ -1,6 +1,0 @@
-Patient_ID:P127
-Name:Patient_127
-Age:47
-Disease:Bronchitis
-Symptoms:Fatigue
-Severity:Moderate

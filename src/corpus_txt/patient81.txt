@@ -1,6 +1,0 @@
-Patient_ID:P081
-Name:Patient_81
-Age:51
-Disease:Malaria
-Symptoms:Fatigue
-Severity:Moderate

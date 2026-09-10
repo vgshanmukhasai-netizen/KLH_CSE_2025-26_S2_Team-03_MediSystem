@@ -1,6 +1,0 @@
-Patient_ID:P201
-Name:Patient_201
-Age:21
-Disease:SleepApnea
-Symptoms:Fatigue
-Severity:Moderate

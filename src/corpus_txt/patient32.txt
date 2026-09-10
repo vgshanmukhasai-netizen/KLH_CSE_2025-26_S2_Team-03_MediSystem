@@ -1,6 +1,0 @@
-Patient_ID:P032
-Name:Patient_32
-Age:52
-Disease:Eczema
-Symptoms:Fatigue
-Severity:Moderate

@@ -1,6 +1,0 @@
-Patient_ID:P060
-Name:Patient_60
-Age:30
-Disease:Hepatitis
-Symptoms:Fatigue
-Severity:Moderate

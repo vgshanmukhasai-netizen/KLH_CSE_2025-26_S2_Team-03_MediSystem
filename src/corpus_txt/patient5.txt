@@ -1,6 +1,0 @@
-Patient_ID:P005
-Name:Patient_5
-Age:25
-Disease:HeartDisease
-Symptoms:ChestPain
-Severity:Severe

@@ -1,6 +1,0 @@
-Patient_ID:P170
-Name:Patient_170
-Age:40
-Disease:Hepatitis
-Symptoms:Fatigue
-Severity:Moderate

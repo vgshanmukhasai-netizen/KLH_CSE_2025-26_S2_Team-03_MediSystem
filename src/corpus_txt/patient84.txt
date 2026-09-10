@@ -1,6 +1,0 @@
-Patient_ID:P084
-Name:Patient_84
-Age:54
-Disease:Sinusitis
-Symptoms:Fatigue
-Severity:Moderate

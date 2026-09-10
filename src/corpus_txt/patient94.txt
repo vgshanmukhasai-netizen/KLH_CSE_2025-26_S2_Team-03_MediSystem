@@ -1,6 +1,0 @@
-Patient_ID:P094
-Name:Patient_94
-Age:64
-Disease:Pancreatitis
-Symptoms:Fatigue
-Severity:Moderate

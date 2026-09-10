@@ -1,6 +1,0 @@
-Patient_ID:P224
-Name:Patient_224
-Age:44
-Disease:Appendicitis
-Symptoms:Fatigue
-Severity:Moderate

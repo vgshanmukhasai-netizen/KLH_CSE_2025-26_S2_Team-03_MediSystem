@@ -1,6 +1,0 @@
-Patient_ID:P149
-Name:Patient_149
-Age:69
-Disease:Bronchitis
-Symptoms:Fatigue
-Severity:Moderate

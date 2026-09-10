@@ -1,6 +1,0 @@
-Patient_ID:P120
-Name:Patient_120
-Age:40
-Disease:Eczema
-Symptoms:Fatigue
-Severity:Moderate

@@ -1,6 +1,0 @@
-Patient_ID:P040
-Name:Patient_40
-Age:60
-Disease:Sinusitis
-Symptoms:Fatigue
-Severity:Moderate

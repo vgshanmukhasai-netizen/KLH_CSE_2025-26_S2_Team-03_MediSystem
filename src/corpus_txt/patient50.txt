@@ -1,6 +1,0 @@
-Patient_ID:P050
-Name:Patient_50
-Age:20
-Disease:Pancreatitis
-Symptoms:Fatigue
-Severity:Moderate

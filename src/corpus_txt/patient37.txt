@@ -1,6 +1,0 @@
-Patient_ID:P037
-Name:Patient_37
-Age:57
-Disease:Malaria
-Symptoms:Fatigue
-Severity:Moderate

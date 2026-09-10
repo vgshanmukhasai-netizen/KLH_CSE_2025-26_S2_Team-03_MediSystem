@@ -1,6 +1,0 @@
-Patient_ID:P018
-Name:Patient_18
-Age:38
-Disease:Sinusitis
-Symptoms:Fatigue
-Severity:Moderate

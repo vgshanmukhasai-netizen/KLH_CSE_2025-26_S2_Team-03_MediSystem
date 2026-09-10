@@ -1,6 +1,0 @@
-Patient_ID:P030
-Name:Patient_30
-Age:50
-Disease:Cataract
-Symptoms:Fatigue
-Severity:Moderate

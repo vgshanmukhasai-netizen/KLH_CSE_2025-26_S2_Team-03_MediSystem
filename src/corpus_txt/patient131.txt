@@ -1,6 +1,0 @@
-Patient_ID:P131
-Name:Patient_131
-Age:51
-Disease:ThyroidDisorder
-Symptoms:Fatigue
-Severity:Moderate

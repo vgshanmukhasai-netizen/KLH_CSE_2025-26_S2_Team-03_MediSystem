@@ -1,6 +1,0 @@
-Patient_ID:P208
-Name:Patient_208
-Age:28
-Disease:Eczema
-Symptoms:Fatigue
-Severity:Moderate

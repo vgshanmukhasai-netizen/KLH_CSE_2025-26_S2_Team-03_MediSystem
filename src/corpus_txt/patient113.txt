@@ -1,6 +1,0 @@
-Patient_ID:P113
-Name:Patient_113
-Age:33
-Disease:SleepApnea
-Symptoms:Fatigue
-Severity:Moderate

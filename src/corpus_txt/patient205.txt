@@ -1,6 +1,0 @@
-Patient_ID:P205
-Name:Patient_205
-Age:25
-Disease:Glaucoma
-Symptoms:Fatigue
-Severity:Moderate

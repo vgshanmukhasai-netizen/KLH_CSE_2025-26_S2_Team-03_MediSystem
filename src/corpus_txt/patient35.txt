@@ -1,6 +1,0 @@
-Patient_ID:P035
-Name:Patient_35
-Age:55
-Disease:Arthritis
-Symptoms:Fatigue
-Severity:Moderate

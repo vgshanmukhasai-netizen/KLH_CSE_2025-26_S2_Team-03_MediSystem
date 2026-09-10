@@ -1,6 +1,0 @@
-Patient_ID:P057
-Name:Patient_57
-Age:27
-Disease:Arthritis
-Symptoms:Fatigue
-Severity:Moderate

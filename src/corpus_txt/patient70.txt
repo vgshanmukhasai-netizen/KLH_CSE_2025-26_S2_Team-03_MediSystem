@@ -1,6 +1,0 @@
-Patient_ID:P070
-Name:Patient_70
-Age:40
-Disease:Appendicitis
-Symptoms:Fatigue
-Severity:Moderate

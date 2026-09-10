@@ -1,6 +1,0 @@
-Patient_ID:P095
-Name:Patient_95
-Age:65
-Disease:Glaucoma
-Symptoms:Fatigue
-Severity:Moderate

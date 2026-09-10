@@ -1,6 +1,0 @@
-Patient_ID:P121
-Name:Patient_121
-Age:41
-Disease:Tuberculosis
-Symptoms:Fatigue
-Severity:Moderate

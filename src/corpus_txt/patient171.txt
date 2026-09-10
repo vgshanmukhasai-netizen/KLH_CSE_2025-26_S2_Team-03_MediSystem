@@ -1,6 +1,0 @@
-Patient_ID:P171
-Name:Patient_171
-Age:41
-Disease:Bronchitis
-Symptoms:Fatigue
-Severity:Moderate

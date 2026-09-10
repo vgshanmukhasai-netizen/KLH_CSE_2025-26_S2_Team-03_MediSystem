@@ -1,6 +1,0 @@
-Patient_ID:P177
-Name:Patient_177
-Age:47
-Disease:Anxiety
-Symptoms:Fatigue
-Severity:Moderate

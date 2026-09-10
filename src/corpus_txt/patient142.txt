@@ -1,6 +1,0 @@
-Patient_ID:P142
-Name:Patient_142
-Age:62
-Disease:Eczema
-Symptoms:Fatigue
-Severity:Moderate

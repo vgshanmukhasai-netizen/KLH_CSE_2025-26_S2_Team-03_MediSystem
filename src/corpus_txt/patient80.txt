@@ -1,6 +1,0 @@
-Patient_ID:P080
-Name:Patient_80
-Age:50
-Disease:Typhoid
-Symptoms:Fatigue
-Severity:Moderate

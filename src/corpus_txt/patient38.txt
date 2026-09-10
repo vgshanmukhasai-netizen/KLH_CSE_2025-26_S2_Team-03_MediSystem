@@ -1,6 +1,0 @@
-Patient_ID:P038
-Name:Patient_38
-Age:58
-Disease:Hepatitis
-Symptoms:Fatigue
-Severity:Moderate

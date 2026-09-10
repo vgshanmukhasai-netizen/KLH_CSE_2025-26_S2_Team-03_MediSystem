@@ -1,6 +1,0 @@
-Patient_ID:P041
-Name:Patient_41
-Age:61
-Disease:Gastritis
-Symptoms:Fatigue
-Severity:Moderate

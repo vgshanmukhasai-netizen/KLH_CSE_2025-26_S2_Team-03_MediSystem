@@ -1,6 +1,0 @@
-Patient_ID:P162
-Name:Patient_162
-Age:32
-Disease:Cataract
-Symptoms:Fatigue
-Severity:Moderate

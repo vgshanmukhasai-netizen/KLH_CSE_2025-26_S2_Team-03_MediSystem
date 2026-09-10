@@ -1,6 +1,0 @@
-Patient_ID:P222
-Name:Patient_222
-Age:42
-Disease:COPD
-Symptoms:Fatigue
-Severity:Moderate

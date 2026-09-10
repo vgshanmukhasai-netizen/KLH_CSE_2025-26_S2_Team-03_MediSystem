@@ -1,6 +1,0 @@
-Patient_ID:P169
-Name:Patient_169
-Age:39
-Disease:Malaria
-Symptoms:Fatigue
-Severity:Moderate

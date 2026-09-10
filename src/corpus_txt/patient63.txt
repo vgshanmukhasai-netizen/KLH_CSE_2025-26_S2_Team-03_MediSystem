@@ -1,6 +1,0 @@
-Patient_ID:P063
-Name:Patient_63
-Age:33
-Disease:Gastritis
-Symptoms:Fatigue
-Severity:Moderate

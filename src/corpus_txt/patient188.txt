@@ -1,6 +1,0 @@
-Patient_ID:P188
-Name:Patient_188
-Age:58
-Disease:Pneumonia
-Symptoms:Fatigue
-Severity:Moderate

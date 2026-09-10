@@ -1,6 +1,0 @@
-Patient_ID:P089
-Name:Patient_89
-Age:59
-Disease:Anxiety
-Symptoms:Fatigue
-Severity:Moderate

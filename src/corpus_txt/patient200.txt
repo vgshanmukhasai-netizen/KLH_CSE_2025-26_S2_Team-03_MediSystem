@@ -1,6 +1,0 @@
-Patient_ID:P200
-Name:Patient_200
-Age:20
-Disease:COPD
-Symptoms:Fatigue
-Severity:Moderate

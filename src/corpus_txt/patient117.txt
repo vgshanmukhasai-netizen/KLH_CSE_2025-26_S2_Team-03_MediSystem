@@ -1,6 +1,0 @@
-Patient_ID:P117
-Name:Patient_117
-Age:37
-Disease:Glaucoma
-Symptoms:Fatigue
-Severity:Moderate
